@@ -15,3 +15,4 @@ Electronics for Smart Pipette Digital Tube Rack
 - Push Button Switch - 12mm Square
 - RP-C7.6-ST Force Sensitive Resistor (x4 units)
 - 10k Ohm 0.5 Resistor (x4 units)
+  
