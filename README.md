@@ -12,6 +12,7 @@
 - P2N2222 NPN Transistor
 - 10k Ohm 0.5 Resistor
 - 1k Ohm 0.5 Resistor
+- Switch
 
 ## Electronics for Smart Pipette Digital Tube Rack
 - Arduino Nano V3.0
