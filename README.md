@@ -13,6 +13,8 @@
 - 10k Ohm 0.5 Resistor
 - 1k Ohm 0.5 Resistor
 - Switch
+- +Round Brass Tube: 9/32 inch (7.14 mm) diameter, 0.014 inch wall thickness, cut at 29 mm length.
+- +Comp 3/8 inch x 3/4 inch Metal spring
 
 ## Electronics for Smart Pipette Digital Tube Rack
 - Arduino Nano V3.0
