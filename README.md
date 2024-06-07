@@ -13,7 +13,7 @@
 - 10k Ohm 0.5 Resistor
 - 1k Ohm 0.5 Resistor
 - Switch
-- +Round Brass Tube: 9/32 inch (7.14 mm) diameter, 0.014 inch wall thickness, cut at 29 mm length.
+- +Round Brass Tube: 9/32 inch (7.14 mm) diameter, 0.014-inch wall thickness, cut at 29 mm length.
 - +Comp 3/8 inch x 3/4 inch Metal spring
 
 ## Electronics for Smart Pipette Digital Tube Rack
@@ -21,6 +21,8 @@
 - Push Button Switch - 12mm Square
 - RP-C7.6-ST Force Sensitive Resistor (x4 units)
 - 10k Ohm 0.5 Resistor (x4 units)
-- +6 mm thick form-light foam
+- +EVA mid-density Foam 6mm thick (Ethylene-vinyl acetate)
 
-
+## Other Materials Needed
+- Filament for 3D printer (90 or 100% density settings for strength)
+- Light-duty wire, solder wire, and shrink wrap
