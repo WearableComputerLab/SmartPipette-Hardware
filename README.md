@@ -1,5 +1,7 @@
 # SmartPipette-Hardware
-3D printable models and schematics for Smart Pipette
+This repository contains the files needed to 3D print the Smart Pipette. The schematic PDF details how to connect the electronic components on the hand controller and the digital tube rack.
+
+The following list includes the necessary electronics and additional materials to build one Smart Pipette v1. 
 
 ## Electronics for Smart Pipette Hand Controller
 - Adafruit QT-Py ESP32-C3
