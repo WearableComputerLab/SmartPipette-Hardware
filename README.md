@@ -24,7 +24,7 @@ The following list includes the necessary electronics and additional materials t
 - Arduino Nano V3.0
 - Push Button Switch - 12mm Square
 - RP-C7.6-ST Force Sensitive Resistor (x4 units)
-- 10k Ohm 0.5 Resistor (x4 units)
+- 10k Ohm 0.5 Resistor (x5 units)
 - +EVA mid-density Foam 6mm thick (Ethylene-vinyl acetate)
 
 ## Other Materials Needed
