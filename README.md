@@ -17,7 +17,7 @@ The following list includes the necessary electronics and additional materials t
 - JST 2-pin cable
 - JST Right-Angle Connector - Through-Hole 2-Pin
 - Switch
-- +Round Brass Tube: 9/32 inch (7.14 mm) diameter, 0.014-inch wall thickness, cut at 29 mm length.
+- +Round Brass Tube: 5/16 inch (7.94 mm) diameter, 0.014-inch wall thickness, cut at 29 mm length.
 - +Comp 3/8 inch x 3/4 inch Metal spring
 
 ## Electronics for Smart Pipette Digital Tube Rack
